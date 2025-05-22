@@ -1,0 +1,10 @@
+* BEST SETTINGS
+.options reltol=0.01 abstol=1n chgtol=1p
+.options gmin=1n cshunt=1p
+.options itl1=500 itl2=5000 itl4=100
+
+
+* REAL WORLD SETTINGS 
+.options reltol=0.001 abstol=1p chgtol=1f
+.options gmin=1p cshunt=10f
+.options itl1=300 itl2=1500 itl4=50
