@@ -1,0 +1,113 @@
+--- Bill of Materials ---
+
+Ref.	Mfg.	Part No.	Description
+==============10uf x 7 (Decoupling) 
+C2	Würth Elektronik	885012208069 WCAP-CSGP 1206	capacitor, 10µF, 25V
+C4	Würth Elektronik	885012208069 WCAP-CSGP 1206	capacitor, 10µF, 25V
+C15	Würth Elektronik	885012208069 WCAP-CSGP 1206	capacitor, 10µF, 25V
+C20	Würth Elektronik	885012208069 WCAP-CSGP 1206	capacitor, 10µF, 25V
+C21	Würth Elektronik	885012208069 WCAP-CSGP 1206	capacitor, 10µF, 25V
+C22	Würth Elektronik	885012208069 WCAP-CSGP 1206	capacitor, 10µF, 25V
+C18	Würth Elektronik	885012208069 WCAP-CSGP 1206	capacitor, 10µF, 25V
+
+=============10uf x 4 (Timing) 
+C12	TDK	C575OX7RIE106M	capacitor, 10µF, 25V
+C7	TDK	C575OX7RIE106M	capacitor, 10µF, 25V
+C24	TDK	C575OX7RIE106M	capacitor, 10µF, 25V
+C25	TDK	C575OX7RIE106M	capacitor, 10µF, 25V
+
+=============100uf = 1 (Delay/Timing)
+C11	Würth Elektronik	870135373001 WCAP-PTHT 6,3 x 11	capacitor, 100µF, 16V
+
+=============0.1uf x 11 (Decoupling) 
+C1	Würth Elektronik	885012209019 WCAP-CSGP 1210	capacitor, 100nF, 25V
+C3	Würth Elektronik	885012209019 WCAP-CSGP 1210	capacitor, 100nF, 25V
+C5	Würth Elektronik	885012209019 WCAP-CSGP 1210	capacitor, 100nF, 25V
+C6	Würth Elektronik	885012209019 WCAP-CSGP 1210	capacitor, 100nF, 25V
+C8	KEMET	C1812F104K3RAC	capacitor, 100nF, 25V
+C9	KEMET	C1812F104K3RAC	capacitor, 100nF, 25V
+C10	Würth Elektronik	885012209019 WCAP-CSGP 1210	capacitor, 100nF, 25V
+C13	KEMET	C1812F104K3RAC	capacitor, 100nF, 25V
+C14	KEMET	C1812F104K3RAC	capacitor, 100nF, 25V
+C16	KEMET	C1812F104K3RAC	capacitor, 100nF, 25V
+C23	KEMET	C1812F104K3RAC	capacitor, 100nF, 25V
+
+=============0.1uf x 2 (Timing)
+C17	Würth Elektronik	885012209019 WCAP-CSGP 1210	capacitor, 100nF, 25V
+C19	Würth Elektronik	885012209019 WCAP-CSGP 1210	capacitor, 100nF, 25V
+
+=============================Diode1N4148 = 14
+D1	OnSemi	1N4148	diode
+D2	OnSemi	1N4148	diode
+D3	OnSemi	1N4148	diode
+D4	OnSemi	1N4148	diode
+D5	OnSemi	1N4148	diode
+D6	OnSemi	1N4148	diode
+D7	OnSemi	1N4148	diode
+D8	OnSemi	1N4148	diode
+D9	OnSemi	1N4148	diode
+D10	OnSemi	1N4148	diode
+D11	OnSemi	1N4148	diode
+D12	OnSemi	1N4148	diode
+D13	OnSemi	1N4148	diode
+D15	OnSemi	1N4148	diode
+
+================================= MOSFET (n Channel x 5) 
+M1	Alpha & Omega	AO6408	MOSFET
+M2	Alpha & Omega	AO6408	MOSFET
+M4	Alpha & Omega	AO6408	MOSFET
+M5	Alpha & Omega	AO6408	MOSFET
+M6	Alpha & Omega	AO6408	MOSFET
+
+================================= MOSFET (p Channel x 1)
+M3	AOS	AO4630_P	MOSFET
+
+================================== POT 100K = 9 
+POT1	--	--	resistor, 80K
+POT2	--	--	resistor, 80K
+POT3	--	--	resistor, 100K
+POT4	--	--	resistor, 100K
+POT5	--	--	resistor, 20K
+POT6	--	--	resistor, 20K
+POT7	--	--	resistor, 20K
+POT8	--	--	resistor, 20K
+Timing_POT	--	--	resistor, 5K
+
+================================= R4.7K = 10 
+R1	--	--	resistor, 4.7K, 1%, 0.1W
+R2	--	--	resistor, 4.7K, 1%, 0.1W
+R3	--	--	resistor, 4.7K, 1%, 0.1W
+R4	--	--	resistor, 4.7K, 1%, 0.1W
+R9	--	--	resistor, 4.7K, 1%, 0.1W
+R10	--	--	resistor, 4.7K, 1%, 0.1W
+R11	--	--	resistor, 4.7K, 1%, 0.1W
+R13	--	--	resistor, 4.7K, 1%, 0.1W
+R14	--	--	resistor, 4.7K, 1%, 0.1W
+R16	--	--	resistor, 4.7K, 1%, 0.1W
+
+================================= R1K = 10
+R17	--	--	resistor, 1K, 1%, 0.1W
+SeriesResistor1	--	--	resistor, 1K
+SeriesResistor2	--	--	resistor, 1K
+SeriesResistor4	--	--	resistor, 1K
+SeriesResistor6	--	--	resistor, 1K
+SeriesResistor7	--	--	resistor, 1K
+SeriesResistor9	--	--	resistor, 1K
+SeriesResistor10	--	--	resistor, 1K
+SeriesResistor12	--	--	resistor, 1K
+
+================================= 
+U1	(unknown)	NE556_TRANSISTOR	(unknown 3rd party model)
+U3	(unknown)	NE555_TRANSISTOR	(unknown 3rd party model)
+U4	(unknown)	PC817C	(unknown 3rd party model)
+U5	(unknown)	NE556_TRANSISTOR	(unknown 3rd party model)
+
+
+=================================
+IC SOCKETS: DIP14 x 2 , DIP8 x 2
+
+=================================PCB x 1 
+=================================SOLDER ROLL X 1
+=================================JUMPER WIRES x 20
+=================================LM2596 BUCK Regulator Module x 1 
+=================================TTP223 Sensor Module x 1

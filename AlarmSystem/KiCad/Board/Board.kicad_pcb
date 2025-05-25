@@ -82,7 +82,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-23" (layer "F.Cu")
     (tstamp 7a726ddf-dadf-4fe7-bb95-694ee26c5ecc)
-    (at 100.2815 88.773 180)
+    (at 113.3625 84.902 180)
     (descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOT TO_SOT_SMD")
     (property "Sheetfile" "Board.kicad_sch")
@@ -203,7 +203,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-23" (layer "F.Cu")
     (tstamp efa3deaa-0f77-4d42-ae0e-4acb11021186)
-    (at 100.33 91.059 180)
+    (at 113.133984 97.691055 180)
     (descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOT TO_SOT_SMD")
     (property "Sheetfile" "Board.kicad_sch")

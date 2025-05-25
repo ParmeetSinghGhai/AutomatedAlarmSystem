@@ -1,0 +1,14 @@
+10uf 16v polarized electrolytic capacitor x 15 --- done
+0.1uf 25V ceramic capacitors x 15
+1N4148 x 14
+AO3400 NMOS x 5 --- done 
+AO3407 PMOS x 1 --- done
+556 Timer IC x 2 --- done
+Trim Pot 100K x 10
+4.7K 0.25W x 10 --- done
+1K 0.25W x 10
+Perforated Board x 1 -- done (2 pieces for 1) 
+Solder Roll x 1 -- done 
+LM2596 BUCK Regulator Module x 1 --- done
+TTP223 Sensor Module x 1 --- done (2 pieces for 1) 
+Jumper Cables x 20 

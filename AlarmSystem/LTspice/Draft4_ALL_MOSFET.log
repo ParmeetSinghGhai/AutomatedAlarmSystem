@@ -1,0 +1,50 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Parmeet Singh Ghai\Documents\AlarmSystem\LTspice\Draft4_ALL_MOSFET.asc
+Start Time: Fri May 23 14:34:24 2025
+Warning: Multiple definitions of model "u3:2scr375p" Type: BJT
+Warning: Multiple definitions of model "u3:bc857b" Type: BJT
+Warning: Multiple definitions of model "u3:bc847c" Type: BJT
+Warning: Multiple definitions of model "u3:bc847b" Type: BJT
+Warning: Multiple definitions of model "u5:pn" Type: BJT
+Warning: Multiple definitions of model "u5:np" Type: BJT
+Warning: Multiple definitions of model "u5:2scr375p" Type: BJT
+Warning: Multiple definitions of model "u5:bc857b" Type: BJT
+Warning: Multiple definitions of model "u5:bc847c" Type: BJT
+Warning: Multiple definitions of model "u5:bc847b" Type: BJT
+Warning: Multiple definitions of model "u1:pn" Type: BJT
+Warning: Multiple definitions of model "u1:np" Type: BJT
+Warning: Multiple definitions of model "u1:2scr375p" Type: BJT
+Warning: Multiple definitions of model "u1:bc857b" Type: BJT
+Warning: Multiple definitions of model "u1:bc847c" Type: BJT
+Warning: Multiple definitions of model "u1:bc847b" Type: BJT
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = Gear
+gmin = 1e-12
+abstol = 1e-12
+chgtol = 1e-15
+c1: Increased Cpar to 1e-13
+c2: Increased Cpar to 1e-11
+c3: Increased Cpar to 1e-13
+c4: Increased Cpar to 1e-11
+c11: Increased Cpar to 1e-10
+c5: Increased Cpar to 1e-13
+c10: Increased Cpar to 1e-13
+c15: Increased Cpar to 1e-11
+c17: Increased Cpar to 1e-13
+c18: Increased Cpar to 1e-11
+c19: Increased Cpar to 1e-13
+c20: Increased Cpar to 1e-11
+c21: Increased Cpar to 1e-11
+c22: Increased Cpar to 1e-11
+c6: Increased Cpar to 1e-13
+WARNING: Less than two connections to node nc_01.  This node is used by q:u3:27.
+Per .tran options, skipping operating point for transient analysis.
+Changing Tseed to 1e-08
+Changing Tseed to 1e-10
+Changing Tseed to 1e-07
+Changing Tseed to 1e-11
+Total elapsed time: 84.526 seconds.
+

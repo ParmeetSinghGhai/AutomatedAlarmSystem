@@ -1,0 +1,59 @@
+Questionable use of curly braces in "xu1 b an b audio1 f cn 0 vcc f audio2 d en d n005 cd40106b_hex vdd=5 speed=1 tripdt=5n vdd1={vdd} speed1={speed} tripdt1={tripdt}"
+    Error: undefined symbol in: "[vdd]"
+Questionable use of curly braces in "xu1 b an b audio1 f cn 0 vcc f audio2 d en d n005 cd40106b_hex vdd=5 speed=1 tripdt=5n vdd1=(vdd) speed1={speed} tripdt1={tripdt}"
+    Error: undefined symbol in: "[speed]"
+Questionable use of curly braces in "xu1 b an b audio1 f cn 0 vcc f audio2 d en d n005 cd40106b_hex vdd=5 speed=1 tripdt=5n vdd1=(vdd) speed1=(speed) tripdt1={tripdt}"
+    Error: undefined symbol in: "[tripdt]"
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Parmeet Singh Ghai\Documents\AlarmSystem\LTspice\Draft1.asc
+Start Time: Fri May 23 08:20:38 2025
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Warning: Multiple definitions of model "u3:pn" Type: BJT
+Warning: Multiple definitions of model "u3:np" Type: BJT
+Warning: Multiple definitions of model "u3:2scr375p" Type: BJT
+Warning: Multiple definitions of model "u3:bc857b" Type: BJT
+Warning: Multiple definitions of model "u3:bc847c" Type: BJT
+Warning: Multiple definitions of model "u3:bc847b" Type: BJT
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = Gear
+gmin = 1e-12
+abstol = 1e-12
+chgtol = 1e-15
+c1: Increased Cpar to 1e-13
+c2: Increased Cpar to 1e-11
+c3: Increased Cpar to 1e-13
+c4: Increased Cpar to 1e-11
+c5: Increased Cpar to 1e-11
+c6: Increased Cpar to 1e-11
+c7: Increased Cpar to 1e-11
+c9: Increased Cpar to 1e-13
+WARNING: Less than two connections to node nc_01.  This node is used by q:u3:27.
+Per .tran options, skipping operating point for transient analysis.
+Ignoring empty pin current: Ix(u1:vdd)
+Changing Tseed to 4.85e-09
+Changing Tseed to 4.85e-11
+Changing Tseed to 4.85e-08
+Changing Tseed to 4.85e-12
+Changing Tseed to 4.85e-07
+Changing Tseed to 4.85e-13
+Heightened Def Con from 2.09878 to 2.09878
+Heightened Def Con from 2.23212 to 2.23212
+Heightened Def Con from 2.35219 to 2.35219
+Heightened Def Con from 2.59255 to 2.59255
+Heightened Def Con from 2.6599 to 2.6599
+Heightened Def Con from 2.71284 to 2.71284
+Heightened Def Con from 3.79442 to 3.79442
+Heightened Def Con from 3.88323 to 3.88323
+Heightened Def Con from 4.07981 to 4.07981
+Heightened Def Con from 4.15492 to 4.15492
+Heightened Def Con from 4.27492 to 4.27492
+Heightened Def Con from 4.34182 to 4.34182
+Heightened Def Con from 4.50143 to 4.50143
+Total elapsed time: 26.920 seconds.
+
